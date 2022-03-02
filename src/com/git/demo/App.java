@@ -5,5 +5,6 @@ public class App {
 		
 		System.out.println("App");
 		System.out.println("App 2");
+		System.out.println("App3");
 	}
 }
